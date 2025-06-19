@@ -3,6 +3,7 @@ import { MdLocationOn } from "react-icons/md";
 import { FiPhone } from "react-icons/fi";
 import { HiOutlineMail } from "react-icons/hi";
 
+
 const Contact = () => {
   return (
     <div>
