@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { FaTimes } from 'react-icons/fa';
-import  Logo from '../Images/logo.png';
+import  logo from '../Images/logo.png';
 
 
 const Navbar = () => {
@@ -16,7 +16,7 @@ const Navbar = () => {
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-1">
         {/* Logo */}
         <a className="flex items-center space-x-3 rtl:space-x-reverse">
-          <img src={Logo} className="h-18" alt="Growtharcs Logo" />
+          <img src={logo} className="h-18" alt="Growtharcs Logo" />
           {/* <span className="self-center text-2xl font-semibold whitespace-nowrap text-white">Growtharcs</span> */}
         </a>
 
