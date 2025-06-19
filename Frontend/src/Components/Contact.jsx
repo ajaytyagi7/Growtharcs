@@ -15,7 +15,7 @@ const Contact = () => {
     </div>
 
     <div className='py-10 p-4'>
-    <h1 className=' text-6xl font-bold py-10'>Let’s Transform Your Brand Together
+    <h1 className=' text-6xl font-bold  py-10'>Let’s Transform Your Brand Together
         Get in Touch Today!</h1>
      </div>
     
