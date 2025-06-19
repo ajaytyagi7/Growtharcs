@@ -1,0 +1,11 @@
+.stroke-text {
+  color: transparent;
+  -webkit-text-stroke: 1px black;
+ 
+}
+
+.Studio-text {
+  color: transparent;
+  -webkit-text-stroke: 1px white;
+ 
+}
